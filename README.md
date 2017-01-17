@@ -33,3 +33,8 @@ Keep in mind:
 * Use common sense
 * Never blindly follow one principle, many of them might be in conflict depending on the context
 * If it helps you, expose getter - there's no harm in doing that!
+
+Reading recommendations:
+Martin Fowler page (https://martinfowler.com/)
+Refactoring book (https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672) - plenty of examples!
+Refactoring to patterns (https://www.amazon.com/Refactoring-Patterns-Joshua-Kerievsky/dp/0321213351) - haven't read that, open to feedback whether it's worth reading...
