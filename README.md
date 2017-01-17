@@ -2,6 +2,12 @@ What is refactoring:
 A change made to the internal structure of software to make it easier to understand and cheaper to modify without changing its observable behavior… It is a disciplined way to clean up code that minimizes the chances of introducing bugs.
 - MartinFowler and Kent Beck, Refactoring (https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672)
 
+Prerequisite:
+- tests that exercise and check the behavior!!!
+(well, there is a bunch of non changing refactorings...)
+
+Refactoring examples for:
+Replacing conditionals with polymorphism - //https://refactoring.com/catalog/replaceConditionalWithPolymorphism.html
 Tell Don't Ask - https://martinfowler.com/bliki/TellDontAsk.html
 
 When to do:

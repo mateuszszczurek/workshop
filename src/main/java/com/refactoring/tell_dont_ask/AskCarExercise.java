@@ -1,4 +1,4 @@
-package com.refactoring.tda;
+package com.refactoring.tell_dont_ask;
 
 public class AskCarExercise {
 
