@@ -2,6 +2,7 @@
 ###What is refactoring:
 A change made to the internal structure of software to make it easier to understand and cheaper to modify without changing its observable behavior… It is a disciplined way to clean up code that minimizes the chances of introducing bugs.
 - MartinFowler and Kent Beck, Refactoring book
+
 ###Prerequisite:
 - tests that exercise and check the behavior!!!
 (well, there is a bunch of non changing refactorings...)
