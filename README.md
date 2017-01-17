@@ -14,8 +14,8 @@ Why to do:
 * and so on and so forth...
 
 When to consider not to:
-* Layering concerns
-* Complex/heavyweight object dependencies
+* layering concerns (you might be better off with services objects)
+* complex/heavyweight object dependencies
 
 Keep in mind:
 * Use common sense
