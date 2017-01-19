@@ -1,4 +1,4 @@
-package com.refactoring.tell_dont_ask;
+package com.refactoring.examples.tell_dont_ask;
 
 public class TellCar {
 

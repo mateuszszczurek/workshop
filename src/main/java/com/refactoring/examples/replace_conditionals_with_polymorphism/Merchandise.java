@@ -1,4 +1,4 @@
-package com.refactoring.replace_conditionals_with_polymorphism;
+package com.refactoring.examples.replace_conditionals_with_polymorphism;
 
 public class Merchandise {
 

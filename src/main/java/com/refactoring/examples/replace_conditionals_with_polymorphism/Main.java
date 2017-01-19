@@ -1,6 +1,6 @@
-package com.refactoring.replace_conditionals_with_polymorphism;
+package com.refactoring.examples.replace_conditionals_with_polymorphism;
 
-import com.refactoring.replace_conditionals_with_polymorphism.discount.*;
+import com.refactoring.examples.replace_conditionals_with_polymorphism.discount.*;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -55,6 +55,5 @@ public class Main {
             System.out.println(String.format("Price after discount %.2f USD for %s", priceAfterDiscount, client.getClientName()));
         }
     }
-
 
 }

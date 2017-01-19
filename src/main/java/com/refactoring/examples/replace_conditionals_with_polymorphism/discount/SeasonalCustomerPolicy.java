@@ -1,7 +1,7 @@
-package com.refactoring.replace_conditionals_with_polymorphism.discount;
+package com.refactoring.examples.replace_conditionals_with_polymorphism.discount;
 
-import com.refactoring.replace_conditionals_with_polymorphism.Client;
-import com.refactoring.replace_conditionals_with_polymorphism.Merchandise;
+import com.refactoring.examples.replace_conditionals_with_polymorphism.Client;
+import com.refactoring.examples.replace_conditionals_with_polymorphism.Merchandise;
 
 public class SeasonalCustomerPolicy implements DiscountPolicy {
 
