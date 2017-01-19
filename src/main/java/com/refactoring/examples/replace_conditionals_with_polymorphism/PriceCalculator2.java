@@ -25,6 +25,4 @@ public class PriceCalculator2 implements PriceCalculatorInterface {
 
     }
 
-    // I don't like that return price at the end, can we do better?
-
 }

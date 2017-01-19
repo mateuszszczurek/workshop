@@ -30,5 +30,3 @@ public class PriceCalculator3 implements PriceCalculatorInterface {
     }
 
 }
-
-// We could create a guard if statement, allowing us to exit early compared to the initial example.
